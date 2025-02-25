@@ -20,6 +20,7 @@
   padding: 0;
   box-sizing: border-box;
   text-align: center;
+  width: 100%;
 }
 
 body {
@@ -27,6 +28,7 @@ body {
   opacity: 1;
   font-family: "Poppins", sans-serif;
   background: #f9f9f9;
+  width: 100%
 }
 
 .navbar {
